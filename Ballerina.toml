@@ -3,3 +3,6 @@ org = "chameerar"
 name = "asgardeo_listen"
 version = "0.1.0"
 distribution = "2201.9.1"
+
+[build-options]
+observabilityIncluded = true
